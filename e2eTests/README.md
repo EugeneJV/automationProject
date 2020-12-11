@@ -2,6 +2,8 @@
 
 ## Getting started
 
+- To run tests using this framework, you need to have chrome version no lower than 87.0.0
+
 - Clone the repository
 
 ```
