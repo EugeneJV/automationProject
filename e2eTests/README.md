@@ -5,13 +5,13 @@
 - Clone the repository
 
 ```
-git clone 
+git clone https://github.com/EugeneJV/automationProject.git
 ```
 
 - Install dependencies
 
 ```
-cd e2eTests/
+cd automationProject/e2eTests
 npm i
 ```
 
