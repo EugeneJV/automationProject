@@ -1,6 +1,5 @@
-const path = require('path')
-const Application = require(path.resolve('app', 'Application'))
-const param = require(path.resolve('app', 'AppParameters'))
+const param = require('../app/AppParameters')
+const Application = require('../app/Application')
 
 before(async function () {
   try {
